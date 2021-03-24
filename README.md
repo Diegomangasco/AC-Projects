@@ -1,2 +1,2 @@
 # AC-Projects
-Automatic Control workshop, Politecnico di Torino.
+Automatic Control workshops, Politecnico di Torino.
